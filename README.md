@@ -1,4 +1,4 @@
-Hi there 👋
+Hi there, my name is Christos 👋
 - 💬 Ask me about Anki, FSRS, Arch Linux and FreeBSD
 - 🌱 I’m currently learning C, C++
 - 📫 How to reach me: chris.longros@gmail.com
