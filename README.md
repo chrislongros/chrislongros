@@ -3,6 +3,7 @@ Hi there, my name is Christos 👋
 - 🌱 I’m currently learning C, C++
 - 📫 How to reach me: chris.longros@gmail.com
 - 📚 My personal blog: [chrislongros.com](https://chrislongros.com/)
+- ![](https://komarev.com/ghpvc/?username=chrislongros)
 <!--
 **chrislongros/chrislongros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
