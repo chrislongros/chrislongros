@@ -4,7 +4,7 @@ Hi there, my name is Christos 👋
 - 🔭 My main interests include: filesystems (ZFS, Btrfs), database management systems
 - 📫 How to reach me: chris.longros@gmail.com
 - 📚 My personal blog: [chrislongros.com](https://chrislongros.com/)
-- [Mastodon account](https://mastodon.social/@chrislongros)
+- [mastodon.social/@chrislongros](https://mastodon.social/@chrislongros)
 - ![](https://komarev.com/ghpvc/?username=chrislongros)
 <!--
 **chrislongros/chrislongros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
