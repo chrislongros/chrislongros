@@ -2,7 +2,7 @@ Hi there, my name is Christos 👋
 - 💬 Ask me about Anki, FSRS, Arch Linux and FreeBSD
 - 🌱 I’m currently learning C, C++ and the R language
 - 🔭 My main interests include: filesystems (ZFS, Btrfs), database management systems, data analysis
-- 📫 How to reach me: chris.longros@gmail.com
+#- 📫 How to reach me: chris.longros@gmail.com
 - 📚 My personal blog: [chrislongros.com](https://chrislongros.com/)
 - [mastodon.social/@chrislongros](https://mastodon.social/@chrislongros)
 - ![](https://komarev.com/ghpvc/?username=chrislongros)
