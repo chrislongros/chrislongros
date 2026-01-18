@@ -64,10 +64,8 @@ Here are a few highlights from my public GitHub repositories:
 
 ## 📊 GitHub Stats
 
-<!-- Optional: uncomment if you want stats -->
-<!--
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislongros&show_icons=true&theme=transparent)
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislongros&show_icons=true&theme=transparent&cache_seconds=86400)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislongros&layout=compact&theme=transparent)
 
 ---
 
