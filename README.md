@@ -62,11 +62,8 @@ Here are a few highlights from my public GitHub repos:
 
 ## 📊 GitHub Stats
 
-<!-- You can add GitHub stats here with badges if you want -->
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislongros&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 Thanks for stopping by! 👋
-
-
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislongros&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
