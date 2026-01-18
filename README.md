@@ -6,6 +6,10 @@ I’m a technology enthusiast, open-source contributor, and lifelong learner wit
 I build things that help me (and others) understand complex systems — whether that’s
 analyzing learning data, automating tasks, or diving deep into OS tooling.
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=chrislongros&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
 ---
 
 ## 🚀 What I’m Working On
