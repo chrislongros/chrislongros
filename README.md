@@ -1,13 +1,15 @@
-# Hey, I'm Christos 👋
+Hi there, my name is Christos 👋
 
-Thyroid surgeon by day, open-source tinkerer by night. I build tools at the intersection of medicine, spaced repetition, and self-hosted infrastructure.
-
-## What I'm working on
-
-- 🧠 **Spaced Repetition** — Maintaining [anki-sync-server-enhanced](https://github.com/chrislongros/anki-sync-server-enhanced), [anki-desktop-docker](https://github.com/chrislongros/anki-desktop-docker), and [anki-snapshot](https://github.com/chrislongros/anki-snapshot). Contributing to the [Open Spaced Repetition](https://github.com/open-spaced-repetition) org and building R packages for FSRS algorithm bindings ([ankiR](https://github.com/chrislongros/ankiR), [rfsrs](https://github.com/chrislongros/rfsrs)).
-- 🏥 **Medical Research** — Working on my dissertation analyzing ~500 thyroid surgery cases to predict postoperative hypocalcemia. Building research database platforms as REDCap alternatives.
-- 🐧 **Systems & Open Source** — Arch Linux daily driver, AUR package maintainer (medical imaging tools like xmedcon, nifticlib), and contributor to FreeBSD, TrueNAS WebUI, and OpenZFS docs.
-- 🏠 **Homelab** — Running TrueNAS Scale with 80+ Docker containers (Immich, Jellyfin, qBittorrent, monitoring stacks…), Tailscale networking, ZFS storage pools, and automated backups via rclone + Garage S3.
+- 💬 Ask me about Anki, FSRS, Arch Linux, TrueNAS and FreeBSD
+- 🌱 I'm currently learning C, C++ and the R language
+- 🔭 My main interests include: filesystems (ZFS, Btrfs), storage solutions, database management systems, data analysis
+- 🐧 AUR package maintainer (xmedcon, nifticlib and others)
+- 🧠 Building spaced repetition tools: [anki-sync-server-enhanced](https://github.com/chrislongros/anki-sync-server-enhanced), [anki-desktop-docker](https://github.com/chrislongros/anki-desktop-docker), [anki-snapshot](https://github.com/chrislongros/anki-snapshot)
+- 📊 R packages for FSRS algorithm bindings: [ankiR](https://github.com/chrislongros/ankiR), [rfsrs](https://github.com/chrislongros/rfsrs)
+- 🏠 Self-hosting enthusiast — TrueNAS Scale homelab with Docker, Tailscale, and ZFS
+- 🔧 Contributing to FreeBSD, TrueNAS WebUI, OpenZFS docs, and the Anki ecosystem
+- 📚 My personal blog: [chrislongros.com](https://chrislongros.com/)
+- 🐘 [@chrislongros@mastodon.social](https://mastodon.social/@chrislongros)
 
 ## Stats
 
@@ -17,14 +19,3 @@ Thyroid surgeon by day, open-source tinkerer by night. I build tools at the inte
 <a href="https://github.com/chrislongros">
   <img height=200 align="center" src="profile/top-langs.svg" />
 </a>
-
-> Stats generated via GitHub Actions — see [workflow](.github/workflows/readme-stats.yml)
-
-## Languages & Tools
-
-`R` · `Rust` · `C` · `C++` · `Python` · `Bash` · `Docker` · `ZFS` · `Arch Linux` · `TrueNAS` · `FreeBSD` · `Anki` · `FSRS`
-
-## Find me
-
-- 🌐 [chrislongros.com](https://chrislongros.com/)
-- 🐘 [@chrislongros@mastodon.social](https://mastodon.social/@chrislongros)
