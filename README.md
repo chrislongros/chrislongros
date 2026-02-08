@@ -1,76 +1,30 @@
-# Hi 👋 I’m Christos (chrislongros)
+# Hey, I'm Christos 👋
 
-I’m a technology enthusiast, open-source contributor, and lifelong learner with a focus on  
-**spaced repetition tools, system software, and data workflows**.
+Thyroid surgeon by day, open-source tinkerer by night. I build tools at the intersection of medicine, spaced repetition, and self-hosted infrastructure.
 
-I build things that help me (and others) understand complex systems — whether that’s
-analyzing learning data, automating tasks, or diving deep into OS tooling.
+## What I'm working on
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chrislongros&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+- 🧠 **Spaced Repetition** — Maintaining [anki-sync-server-enhanced](https://github.com/chrislongros/anki-sync-server-enhanced), [anki-desktop-docker](https://github.com/chrislongros/anki-desktop-docker), and [anki-snapshot](https://github.com/chrislongros/anki-snapshot). Contributing to the [Open Spaced Repetition](https://github.com/open-spaced-repetition) org and building R packages for FSRS algorithm bindings ([ankiR](https://github.com/chrislongros/ankiR), [rfsrs](https://github.com/chrislongros/rfsrs)).
+- 🏥 **Medical Research** — Working on my dissertation analyzing ~500 thyroid surgery cases to predict postoperative hypocalcemia. Building research database platforms as REDCap alternatives.
+- 🐧 **Systems & Open Source** — Arch Linux daily driver, AUR package maintainer (medical imaging tools like xmedcon, nifticlib), and contributor to FreeBSD, TrueNAS WebUI, and OpenZFS docs.
+- 🏠 **Homelab** — Running TrueNAS Scale with 80+ Docker containers (Immich, Jellyfin, qBittorrent, monitoring stacks…), Tailscale networking, ZFS storage pools, and automated backups via rclone + Garage S3.
 
----
+## Stats
 
-## 🚀 What I’m Working On
+<a href="https://github.com/chrislongros">
+  <img height=200 align="center" src="profile/stats.svg" />
+</a>
+<a href="https://github.com/chrislongros">
+  <img height=200 align="center" src="profile/top-langs.svg" />
+</a>
 
-I’m currently exploring / working with:
+> Stats generated via GitHub Actions — see [workflow](.github/workflows/readme-stats.yml)
 
-- 🧠 **Spaced Repetition**: R and Rust tooling for advanced algorithms (FSRS)
-- 🐧 **Systems & OS**: Arch Linux, FreeBSD, filesystems (ZFS, Btrfs)
-- 🔧 **Automation & Infrastructure**: Scripts, TrueNAS & server tooling
-- 📊 **Data Analysis**: R, Python for structured data analysis
-- 💻 **Learning Languages**: C, C++, R
+## Languages & Tools
 
----
+`R` · `Rust` · `C` · `C++` · `Python` · `Bash` · `Docker` · `ZFS` · `Arch Linux` · `TrueNAS` · `FreeBSD` · `Anki` · `FSRS`
 
-## 📂 Featured Projects
+## Find me
 
-Here are a few highlights from my public GitHub repositories:
-
-### 📦 Spaced Repetition & Anki
-
-| Project | Description |
-|--------|-------------|
-| **[ankiR](https://github.com/chrislongros/ankiR)** | R package to read Anki collections and extract FSRS parameters (stability, difficulty, retrievability). |
-| **[anki-snapshot-tool](https://github.com/chrislongros/anki-snapshot-tool)** | CLI tool to snapshot and version-control Anki collection files. |
-| **[fsrsr](https://github.com/chrislongros/fsrsr)** | Rust / R bindings for the FSRS spaced repetition algorithm. |
-| **ankipandas & related packaging** | Contributions to Python tooling and packaging for spaced repetition libraries. |
-
-### 🐧 OS Projects & Tools
-
-| Project | Description |
-|--------|-------------|
-| **FreeBSD contributions** | Experimental changes and documentation work on FreeBSD source trees. |
-| **TrueNAS Tailscale automation** | Scripts for service setup and certificate automation. |
-| **Various configs** | Neovim config, Docker utilities, and custom scripts. |
-
-➡️ Explore more: https://github.com/chrislongros?tab=repositories
-
----
-
-## ✨ Skills & Interests
-
-- **Languages:** Rust, R, Python, C/C++
-- **System Tools:** Git, CLI tooling, Docker, shell scripting
-- **Platforms:** Arch Linux, FreeBSD, TrueNAS
-- **Domains:** Filesystems, spaced repetition algorithms, data analysis
-
----
-
-## 📫 Connect with Me
-
-- 🔗 Blog: https://chrislongros.com  
-- 🐘 Mastodon: https://mastodon.social/@chrislongros  
-- 📦 GitHub: https://github.com/chrislongros
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chrislongros&show_icons=true&theme=transparent&cache_seconds=86400)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrislongros&layout=compact&theme=transparent)
-
----
-
-Thanks for stopping by! 👋
+- 🌐 [chrislongros.com](https://chrislongros.com/)
+- 🐘 [@chrislongros@mastodon.social](https://mastodon.social/@chrislongros)
