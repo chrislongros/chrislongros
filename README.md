@@ -5,7 +5,7 @@ Hi there, my name is Christos 👋
 - 🔭 My main interests include: filesystems (ZFS, Btrfs), storage solutions, database management systems, data analysis
 - 🐧 AUR package maintainer (xmedcon, nifticlib and others)
 - 🧠 Building spaced repetition tools: [anki-sync-server-enhanced](https://github.com/chrislongros/anki-sync-server-enhanced), [anki-desktop-docker](https://github.com/chrislongros/anki-desktop-docker), [anki-snapshot](https://github.com/chrislongros/anki-snapshot)
-- 📊 R packages for FSRS algorithm bindings: [ankiR](https://github.com/chrislongros/ankiR), [rfsrs](https://github.com/open-spaced-repetition/r-fsrs)
+- 📊 R packages for FSRS algorithm bindings: [ankiR](https://github.com/chrislongros/ankiR), [r-fsrs](https://github.com/open-spaced-repetition/r-fsrs)
 - 🏠 Self-hosting enthusiast — TrueNAS Scale homelab with Docker, Tailscale, and ZFS
 - 🔧 Contributing to FreeBSD, TrueNAS WebUI, OpenZFS docs, and the Anki ecosystem
 - 📚 My personal blog: [chrislongros.com](https://chrislongros.com/)
