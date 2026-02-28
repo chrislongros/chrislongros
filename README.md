@@ -20,8 +20,8 @@ I am an open-source developer with a strong focus on the **FreeBSD/OpenZFS ecosy
 
 - **AUR maintainer** — 8 packages covering spaced repetition tooling and medical imaging, plus co-maintainer of `r-rlang`
 - **CRAN author** — [ankiR](https://cran.r-project.org/package=ankiR), a comprehensive R toolkit for Anki flashcard database analysis (137 functions)
-- **FreeBSD contributor** — active PRs open against [freebsd-src](https://github.com/freebsd/freebsd-src) and [freebsd-doc](https://github.com/freebsd/freebsd-doc)
-- **OpenZFS contributor** — storage improvements PR currently under review
+- **FreeBSD contributor** — new ports for [py-fsrs](https://github.com/freebsd/freebsd-ports/pull/473) and [py-genanki](https://github.com/freebsd/freebsd-ports/pull/474) under review, plus Greek handbook translations in [freebsd-doc](https://github.com/freebsd/freebsd-doc)
+- **OpenZFS contributor** — 2 merged + [2 open PRs](https://github.com/openzfs/zfs/pulls?q=is%3Apr+author%3Achrislongros+is%3Aopen) improving zpool error messages and diagnostics
 - **EDC systems developer** — self-hosted clinical data capture platforms as REDCap alternatives
 - **Homelab operator** — 80+ containers on TrueNAS Scale with ZFS, Tailscale, Prometheus, and S3-compatible object storage
 
@@ -57,12 +57,21 @@ I am an open-source developer with a strong focus on the **FreeBSD/OpenZFS ecosy
 
 | Project | Status |
 |---|---|
-| [**FreeBSD/freebsd-src**](https://github.com/freebsd/freebsd-src) | PR open — kernel fix in review |
-| [**FreeBSD/freebsd-doc**](https://github.com/freebsd/freebsd-doc) | Documentation improvements |
-| [**OpenZFS**](https://github.com/openzfs/zfs) | PR open — storage improvements in review |
-| [**TrueNAS WebUI**](https://github.com/truenas/webui) | Bug fixes merged |
-| [**ankitects/anki**](https://github.com/chrislongros/anki) | Backend & frontend contributions |
-| [**ankitects/anki-core-i18n**](https://github.com/ankitects/anki-core-i18n) | Fluent i18n translations |
+| [**OpenZFS**](https://github.com/openzfs/zfs) | [2 merged](https://github.com/openzfs/zfs/pulls?q=is%3Apr+author%3Achrislongros+is%3Amerged) (zpool error messages), [2 open](https://github.com/openzfs/zfs/pulls?q=is%3Apr+author%3Achrislongros+is%3Aopen) (EDOM handling, device failure reporting) |
+| [**FreeBSD/freebsd-ports**](https://github.com/freebsd/freebsd-ports) | 2 new ports under review — [py-fsrs](https://github.com/freebsd/freebsd-ports/pull/473), [py-genanki](https://github.com/freebsd/freebsd-ports/pull/474) |
+| [**FreeBSD/freebsd-doc**](https://github.com/freebsd/freebsd-doc) | [5 open PRs](https://github.com/freebsd/freebsd-doc/pulls?q=is%3Apr+author%3Achrislongros+is%3Aopen) — Greek handbook translations and updates |
+| [**TrueNAS WebUI**](https://github.com/truenas/webui) | [7 merged](https://github.com/truenas/webui/pulls?q=is%3Apr+author%3Achrislongros+is%3Amerged) — bug fixes, replication wizard fix, Greek translations |
+| [**TrueNAS Apps**](https://github.com/truenas/apps) | [Anki Sync Server Enhanced](https://github.com/truenas/apps/pull/4282) added as community app |
+| [**Immich**](https://github.com/immich-app/immich) | [2 merged](https://github.com/immich-app/immich/pulls?q=is%3Apr+author%3Achrislongros+is%3Amerged) — mobile nav bar fix, docs clarification |
+| [**ankitects/anki**](https://github.com/ankitects/anki) | [1 open PR](https://github.com/ankitects/anki/pull/4548) — simulator graph fix |
+| [**ankitects/anki-core-i18n**](https://github.com/ankitects/anki-core-i18n) | 181 commits — Greek (el) Fluent translations via Pontoon |
+| [**ankitects/anki-manual**](https://github.com/ankitects/anki-manual) | 1 merged (FSRS docs), [1 open](https://github.com/ankitects/anki-manual/pull/421) (search keyword docs) |
+| [**ankimcp/anki-mcp-server-addon**](https://github.com/ankimcp/anki-mcp-server-addon) | [FSRS parameter tools merged](https://github.com/ankimcp/anki-mcp-server-addon/pull/14) |
+| [**open-spaced-repetition/fsrs4anki-helper**](https://github.com/open-spaced-repetition/fsrs4anki-helper) | [3 merged](https://github.com/open-spaced-repetition/fsrs4anki-helper/pulls?q=is%3Apr+author%3Achrislongros+is%3Amerged) — Greek translations |
+| [**tidyverse/forcats**](https://github.com/tidyverse/forcats) | [1 open PR](https://github.com/tidyverse/forcats/pull/391) — `desc` argument for `fct_infreq()` |
+| [**BioArchLinux/Packages**](https://github.com/BioArchLinux/Packages) | [r-ankir package merged](https://github.com/BioArchLinux/Packages/pull/305) |
+| [**vim/vim**](https://github.com/vim/vim) | [Greek installer merged](https://github.com/vim/vim/pull/14148) |
+| [**archlinux/archinstall**](https://github.com/archlinux/archinstall) | [Greek translations merged](https://github.com/archlinux/archinstall/pull/2284) |
 
 ---
 
