@@ -1,5 +1,7 @@
 # Hi there, I'm Christos
 
+![Profile Views](https://komarev.com/ghpvc/?username=chrislongros&color=blue&style=flat)
+
 > UNIX enthusiast · Open-source developer · AUR packager · Spaced repetition nerd
 
 ---
@@ -20,8 +22,8 @@ I am an open-source developer with a strong focus on the **FreeBSD/OpenZFS ecosy
 
 - **AUR maintainer** — 8 packages covering spaced repetition tooling and medical imaging, plus co-maintainer of `r-rlang`
 - **CRAN author** — [ankiR](https://cran.r-project.org/package=ankiR), a comprehensive R toolkit for Anki flashcard database analysis (137 functions)
-- **FreeBSD contributor** — new ports for [py-fsrs](https://github.com/freebsd/freebsd-ports/pull/473) and [py-genanki](https://github.com/freebsd/freebsd-ports/pull/474) under review, plus Greek handbook translations in [freebsd-doc](https://github.com/freebsd/freebsd-doc)
-- **OpenZFS contributor** — 2 merged + [2 open PRs](https://github.com/openzfs/zfs/pulls?q=is%3Apr+author%3Achrislongros+is%3Aopen) improving zpool error messages and diagnostics
+- **FreeBSD contributor** — kernel driver patches via [Phabricator](https://reviews.freebsd.org), new ports for [py-fsrs](https://github.com/freebsd/freebsd-ports/pull/473) and [py-genanki](https://github.com/freebsd/freebsd-ports/pull/474), handbook updates, and Greek translations
+- **OpenZFS contributor** — [5 merged PRs](https://github.com/openzfs/zfs/pulls?q=is%3Apr+author%3Achrislongros+is%3Amerged) including error message improvements, man pages, and undocumented flag cleanup
 - **EDC systems developer** — self-hosted clinical data capture platforms as REDCap alternatives
 - **Homelab operator** — 80+ containers on TrueNAS Scale with ZFS, Tailscale, Prometheus, and S3-compatible object storage
 
@@ -34,9 +36,25 @@ I am an open-source developer with a strong focus on the **FreeBSD/OpenZFS ecosy
 | Project | Description |
 |---|---|
 | [**ankiR**](https://github.com/chrislongros/ankiR) | R package on CRAN — read & analyse Anki SQLite databases, retention stats, FSRS parameters (137 functions) |
-| [**rfsrs**](https://github.com/chrislongros/rfsrs) | Rust/R bindings for the FSRS-6 spaced repetition algorithm |
+| [**rfsrs**](https://github.com/open-spaced-repetition/r-fsrs) | Rust/R bindings for the FSRS-6 spaced repetition algorithm (under open-spaced-repetition org) |
 | [**anki-snapshot**](https://github.com/chrislongros/anki-snapshot) | Git-based version control for Anki collections with human-readable diffs |
 | [**anki-sync-server-enhanced**](https://github.com/chrislongros/anki-sync-server-enhanced) | Self-hosted Anki sync server — multi-user, auto-updates, web dashboard, TLS, Prometheus metrics |
+| [**anki-desktop-docker**](https://github.com/chrislongros/anki-desktop-docker) | Browser-accessible Anki Desktop with KasmVNC — always latest version |
+| [**Anki-Cloze-Deletion**](https://github.com/chrislongros/Anki-Cloze-Deletion) | Modern dark-themed Anki cloze note type for medical students |
+
+### TrueNAS & Homelab
+
+| Project | Description |
+|---|---|
+| [**truenas-scripts**](https://github.com/chrislongros/truenas-scripts) | TrueNAS automation — Tailscale Serve preservation, certificate renewal with cleanup, app updates |
+| [**truenas-tailscale-cert-automation**](https://github.com/chrislongros/truenas-tailscale-cert-automation) | Automated Tailscale SSL certificate import for TrueNAS UI |
+
+### R Data Packages
+
+| Project | Description |
+|---|---|
+| [**osscontribs**](https://github.com/chrislongros/osscontribs) | Open source project contributor growth statistics (R data package) |
+| [**freebsdcontribs**](https://github.com/chrislongros/freebsdcontribs) | FreeBSD Phabricator contributor growth statistics (R data package) |
 
 ### AUR Packages
 
@@ -53,13 +71,16 @@ I am an open-source developer with a strong focus on the **FreeBSD/OpenZFS ecosy
 
 *Co-maintaining:* [`r-rlang`](https://aur.archlinux.org/packages/r-rlang) — Functions for Base Types and Core R / Tidyverse Features
 
-### Upstream Contributions
+---
+
+## Upstream Contributions
 
 | Project | Status |
 |---|---|
-| [**OpenZFS**](https://github.com/openzfs/zfs) | [2 merged](https://github.com/openzfs/zfs/pulls?q=is%3Apr+author%3Achrislongros+is%3Amerged) (zpool error messages), [2 open](https://github.com/openzfs/zfs/pulls?q=is%3Apr+author%3Achrislongros+is%3Aopen) (EDOM handling, device failure reporting) |
+| [**OpenZFS**](https://github.com/openzfs/zfs) | [5 merged](https://github.com/openzfs/zfs/pulls?q=is%3Apr+author%3Achrislongros+is%3Amerged) (zpool error messages, man pages, flag cleanup), [3 open](https://github.com/openzfs/zfs/pulls?q=is%3Apr+author%3Achrislongros+is%3Aopen) (zarcsummary man page, zilstat AUTHORS, device failure reporting) |
+| [**FreeBSD/freebsd-src**](https://github.com/freebsd/freebsd-src) | Kernel driver patches via [Phabricator](https://reviews.freebsd.org) — rge(4) silicon revision logging ([D55402](https://reviews.freebsd.org/D55402), committed), C-style comments ([D55743](https://reviews.freebsd.org/D55743)) |
 | [**FreeBSD/freebsd-ports**](https://github.com/freebsd/freebsd-ports) | 2 new ports under review — [py-fsrs](https://github.com/freebsd/freebsd-ports/pull/473), [py-genanki](https://github.com/freebsd/freebsd-ports/pull/474) |
-| [**FreeBSD/freebsd-doc**](https://github.com/freebsd/freebsd-doc) | [5 open PRs](https://github.com/freebsd/freebsd-doc/pulls?q=is%3Apr+author%3Achrislongros+is%3Aopen) — Greek handbook translations and updates |
+| [**FreeBSD/freebsd-doc**](https://github.com/freebsd/freebsd-doc) | [6 open PRs](https://github.com/freebsd/freebsd-doc/pulls?q=is%3Apr+author%3Achrislongros+is%3Aopen) — handbook cleanup, Greek translations |
 | [**TrueNAS WebUI**](https://github.com/truenas/webui) | [7 merged](https://github.com/truenas/webui/pulls?q=is%3Apr+author%3Achrislongros+is%3Amerged) — bug fixes, replication wizard fix, Greek translations |
 | [**TrueNAS Apps**](https://github.com/truenas/apps) | [Anki Sync Server Enhanced](https://github.com/truenas/apps/pull/4282) added as community app |
 | [**Immich**](https://github.com/immich-app/immich) | [2 merged](https://github.com/immich-app/immich/pulls?q=is%3Apr+author%3Achrislongros+is%3Amerged) — mobile nav bar fix, docs clarification |
@@ -81,7 +102,7 @@ Running a **TrueNAS Scale** homelab with:
 
 - 80+ Docker containers managed via **Portainer**
 - **ZFS** storage pools across HDDs and NVMe SSDs, with I/O-heavy workloads on dedicated SSD vdevs
-- **Tailscale Serve** for secure, zero-config remote access
+- **Tailscale Serve** for secure, zero-config remote access with automated certificate renewal
 - **Garage** and **RustFS** for S3-compatible object storage and automated backups
 - Self-hosted Anki sync server, Prometheus/Grafana monitoring stack, and EDC research platforms
 
