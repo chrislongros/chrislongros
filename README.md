@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chrislongros&color=blue&style=flat)
 
-> UNIX enthusiast · Open-source developer · AUR packager · Spaced repetition enthusiast
+> UNIX enthusiast · Open-source developer · AUR package maintainer · Spaced repetition enthusiast · FreeBSD porter
 
 ---
 
