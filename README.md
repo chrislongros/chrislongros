@@ -21,7 +21,7 @@ I'm an open-source developer focused on **FreeBSD/OpenZFS ecosystem**, **Arch Li
 
 - **FreeBSD** — man pages, documentation, port maintenance and kernel driver patches
 - **OpenZFS** — man pages, documentation, and test suite improvements
-- **AUR** — 120+ packages covering R/CRAN, spaced repetition tools such as Anki and FSRS
+- **AUR** — 120+ packages covering R/CRAN, package porting to BioArchLinux repository, spaced repetition tools: Anki and FSRS
 - **CRAN** — [ankiR](https://cran.r-project.org/package=ankiR), an R toolkit for Anki flashcard database analysis
 - **Anki** — enhanced sync server, snapshot tool, cloze templates, Greek translations
 - **TrueNAS** — WebUI localization and automation scripts
