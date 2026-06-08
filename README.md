@@ -28,3 +28,10 @@ I'm an open-source developer focused on the **FreeBSD/OpenZFS ecosystem**, **Arc
 - **Homelab** — 80+ containers on TrueNAS Scale with ZFS, Tailscale, and S3-compatible storage
 
 ---
+
+## My GitHub Stats
+
+<p align="center">
+  <img src="./profile/stats.svg" alt="Christos Longros' GitHub Stats" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
+</p>
