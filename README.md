@@ -8,10 +8,10 @@
 
 ## About me
 
-I'm an open-source developer focused on the **FreeBSD/OpenZFS ecosystem**, **Arch Linux** packaging, and **self-hosted infrastructure**. I build tools around **spaced repetition** (Anki/FSRS) and develop **EDC database systems** for clinical research.
+I'm an open-source developer focused on **FreeBSD/OpenZFS ecosystem**, **Arch Linux** packaging and **self-hosted infrastructure**. I also build tools around **spaced repetition** (Anki/FSRS).
 
 - Main interests: filesystems, storage internals, self-hosted infrastructure, spaced repetition learning, EDC systems
-- Languages: R, C, Python, Bash
+- Languages: mainly C, R
 - Blog: [chrislongros.com](https://chrislongros.com/)
 - Mastodon: [@chrislongros@mastodon.social](https://mastodon.social/@chrislongros)
 
@@ -19,13 +19,23 @@ I'm an open-source developer focused on the **FreeBSD/OpenZFS ecosystem**, **Arc
 
 ## What I work on
 
-- **FreeBSD** — kernel driver patches, man pages, documentation, and port maintenance
+- **FreeBSD** — man pages, documentation, port maintenance and kernel driver patches
 - **OpenZFS** — man pages, documentation, and test suite improvements
-- **AUR** — 120+ packages covering R/CRAN, spaced repetition tooling, and medical imaging
+- **AUR** — 120+ packages covering R/CRAN, spaced repetition tools such as Anki and FSRS
 - **CRAN** — [ankiR](https://cran.r-project.org/package=ankiR), an R toolkit for Anki flashcard database analysis
-- **Anki ecosystem** — sync server, desktop Docker, snapshot tool, cloze templates, Greek translations
-- **TrueNAS** — WebUI contributions, community apps, and automation scripts
+- **Anki** — enhanced sync server, snapshot tool, cloze templates, Greek translations
+- **TrueNAS** — WebUI localization and automation scripts
 - **Homelab** — 80+ containers on TrueNAS Scale with ZFS, Tailscale, and S3-compatible storage
+
+---
+
+## Popular repositories
+
+- ⭐ **[anki-sync-server-enhanced](https://github.com/chrislongros/anki-sync-server-enhanced)** — self-hosted Anki sync server with multi-user support, auto-updates, healthchecks, and Docker secrets
+- ⭐ **[anki-snapshot](https://github.com/chrislongros/anki-snapshot)** — git-based version control for Anki collections with human-readable diffs
+- ⭐ **[anki-desktop-docker](https://github.com/chrislongros/anki-desktop-docker)** — browser-accessible Anki Desktop via KasmVNC, always on the latest version
+- ⭐ **[ankiR](https://github.com/chrislongros/ankiR)** — R package for reading Anki databases with FSRS parameter support
+- ⭐ **[truenas-tailscale-cert-automation](https://github.com/chrislongros/truenas-tailscale-cert-automation)** — automated Tailscale TLS certificate management for TrueNAS
 
 ---
 
