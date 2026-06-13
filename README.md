@@ -31,11 +31,11 @@ I'm an open-source developer focused on **FreeBSD/OpenZFS ecosystem**, **Arch Li
 
 ## Popular repositories
 
-- ⭐ **[anki-sync-server-enhanced](https://github.com/chrislongros/anki-sync-server-enhanced)** — self-hosted Anki sync server with multi-user support, auto-updates, healthchecks, and Docker secrets
-- ⭐ **[anki-snapshot](https://github.com/chrislongros/anki-snapshot)** — git-based version control for Anki collections with human-readable diffs
-- ⭐ **[anki-desktop-docker](https://github.com/chrislongros/anki-desktop-docker)** — browser-accessible Anki Desktop via KasmVNC, always on the latest version
-- ⭐ **[ankiR](https://github.com/chrislongros/ankiR)** — R package for reading Anki databases with FSRS parameter support
-- ⭐ **[truenas-tailscale-cert-automation](https://github.com/chrislongros/truenas-tailscale-cert-automation)** — automated Tailscale TLS certificate management for TrueNAS
+- **[anki-sync-server-enhanced](https://github.com/chrislongros/anki-sync-server-enhanced)** — self-hosted Anki sync server with multi-user support, auto-updates, healthchecks, and Docker secrets
+- **[anki-snapshot](https://github.com/chrislongros/anki-snapshot)** — git-based version control for Anki collections with human-readable diffs
+- **[anki-desktop-docker](https://github.com/chrislongros/anki-desktop-docker)** — browser-accessible Anki Desktop via KasmVNC, always on the latest version
+- **[ankiR](https://github.com/chrislongros/ankiR)** — R package for reading Anki databases with FSRS parameter support
+- **[truenas-tailscale-cert-automation](https://github.com/chrislongros/truenas-tailscale-cert-automation)** — automated Tailscale TLS certificate management for TrueNAS
 
 ---
 
