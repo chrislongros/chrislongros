@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chrislongros&color=blue&style=flat)
 
-> UNIX enthusiast · Open-source developer · AUR package maintainer · Spaced repetition enthusiast · FreeBSD porter
+> UNIX enthusiast · Open-source developer · AUR package maintainer · R package author · FreeBSD porter
 
 ---
 
@@ -14,6 +14,7 @@ I'm an open-source developer focused on **FreeBSD/OpenZFS ecosystem**, **Arch Li
 - Languages: mainly C, R
 - Blog: [chrislongros.com](https://chrislongros.com/)
 - Mastodon: [@chrislongros@mastodon.social](https://mastodon.social/@chrislongros)
+- ORCID: [0009-0001-2717-0857](https://orcid.org/0009-0001-2717-0857)
 
 ---
 
