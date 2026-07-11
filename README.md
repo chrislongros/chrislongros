@@ -22,6 +22,12 @@ I'm an open-source developer focused on **FreeBSD/OpenZFS ecosystem**, **Arch Li
 
 The data integrity that OpenZFS provides is crucial for me — it secures invaluable data such as family photos.
 
+Main features:
+
+- **End-to-end checksumming** — a checksum is computed and stored for every allocated block
+- **Self-healing** — on a checksum mismatch, the block is restored from a mirror copy or RAID-Z parity and the corrected data is rewritten to disk
+- **Pool scrubbing** — a pool-wide verification that validates every allocated block: user data, metadata, and parity
+
 ---
 
 ## What I work on
