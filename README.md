@@ -56,5 +56,4 @@ Main features:
 
 <p align="center">
   <img src="./profile/stats.svg" alt="Christos Longros' GitHub Stats" />
-  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
