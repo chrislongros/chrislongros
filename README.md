@@ -32,11 +32,12 @@ Main features:
 
 ## What I work on
 
-- **OpenZFS** — unit tests, CI, documentation
-- **FreeBSD** — ports, documentation, Greek translations, kernel driver patches (e.g. the Realtek driver)
-- **R** — [ankiR](https://cran.r-project.org/package=ankiR) on CRAN, [digest](https://github.com/eddelbuettel/digest) contributor, more on [r-universe](https://chrislongros.r-universe.dev)
-- **Arch Linux** — 120+ AUR packages, BioArchLinux
-- **Anki** — self-hosted sync server, tooling, Greek translations
+- **[OpenZFS](https://github.com/openzfs/zfs)** — unit tests, CI, test suite, documentation
+- **[FreeBSD](https://github.com/freebsd/freebsd-src)** — src commits (device drivers such as rge and ure, EFI loader, man pages), ports, documentation
+- **R** — [ankiR](https://cran.r-project.org/package=ankiR) on CRAN, [digest](https://github.com/eddelbuettel/digest) contributor, [freebsdcontribs](https://cran.r-project.org/package=freebsdcontribs) on CRAN, more on [r-universe](https://chrislongros.r-universe.dev)
+- **Arch Linux** — 120+ AUR packages, [BioArchLinux](https://github.com/BioArchLinux/Packages), [archinstall](https://github.com/archlinux/archinstall)
+- **Greek localization** — [TrueNAS WebUI](https://github.com/truenas/webui), FreeBSD Handbook, Anki
+- **[Anki](https://github.com/ankitects/anki)** — self-hosted sync server, tooling, upstream fixes, localization
 - **Homelab** — TrueNAS Scale, ZFS, Tailscale, 80+ containers
 
 ---
