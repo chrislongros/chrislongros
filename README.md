@@ -18,15 +18,20 @@ I'm an open-source developer focused on **FreeBSD/OpenZFS ecosystem**, **Arch Li
 
 ---
 
+## Why OpenZFS
+
+The data integrity that OpenZFS provides is crucial for me — it secures invaluable data such as family photos.
+
+---
+
 ## What I work on
 
-- **FreeBSD** — man pages, documentation, port maintenance and kernel driver patches
-- **OpenZFS** — man pages, documentation, and test suite improvements
-- **AUR** — 120+ packages covering R/CRAN, package porting to BioArchLinux repository, spaced repetition tools: Anki and FSRS
-- **CRAN** — [ankiR](https://cran.r-project.org/package=ankiR), an R toolkit for Anki flashcard database analysis
-- **Anki** — enhanced sync server, snapshot tool, cloze templates, Greek translations
-- **TrueNAS** — WebUI localization and automation scripts
-- **Homelab** — 80+ containers on TrueNAS Scale with ZFS, Tailscale, and S3-compatible storage
+- **OpenZFS** — unit tests, CI, documentation
+- **FreeBSD** — ports, documentation, Greek translations, kernel driver patches (e.g. the Realtek driver)
+- **R** — [ankiR](https://cran.r-project.org/package=ankiR) on CRAN, [digest](https://github.com/eddelbuettel/digest) contributor, more on [r-universe](https://chrislongros.r-universe.dev)
+- **Arch Linux** — 120+ AUR packages, BioArchLinux
+- **Anki** — self-hosted sync server, tooling, Greek translations
+- **Homelab** — TrueNAS Scale, ZFS, Tailscale, 80+ containers
 
 ---
 
