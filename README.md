@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm an open-source developer focused on **FreeBSD/OpenZFS ecosystem**, **Arch Linux** packaging and **self-hosted infrastructure**. I also build tools around **spaced repetition** (Anki/FSRS).
+I am a medical doctor and an open-source developer focused on **FreeBSD/OpenZFS ecosystem**, **Arch Linux** packaging and **self-hosted infrastructure**. I also build tools around **spaced repetition** (Anki/FSRS).
 
 - Main interests: filesystems, storage internals, self-hosted infrastructure, spaced repetition learning, EDC systems
 - Languages: mainly C, R
