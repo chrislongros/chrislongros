@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Christos Longros&#39; GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 122, Total Commits  : 2460, Total PRs: 217, Total Issues: 17, Contributed to (last year): 30</desc>
+        <desc id="descId">Total Stars Earned: 122, Total Commits  : 2527, Total PRs: 217, Total Issues: 17, Contributed to (last year): 30</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 56.888484974209796;
+        stroke-dashoffset: 56.54301555814405;
       }
     }
   
