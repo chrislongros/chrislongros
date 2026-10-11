@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chrislongros&color=blue&style=flat)
 
-> UNIX enthusiast · Open-source developer · AUR package maintainer · R package author · FreeBSD porter
+> UNIX enthusiast · Open-source developer · AUR package maintainer · R package author · FreeBSD ports committer
 
 ---
 
