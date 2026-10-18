@@ -1,6 +1,6 @@
 # Hi there, I'm Christos
 
-![Profile Views](https://komarev.com/ghpvc/?username=chrislongros&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=chrislongros&label=Profile%20views&color=blue&style=flat)
 
 > UNIX enthusiast · Open-source developer · AUR package maintainer · R package author · FreeBSD ports committer
 
