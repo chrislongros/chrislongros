@@ -1,6 +1,6 @@
 # Hi there, I'm Christos
 
-![Profile Views](https://hits.sh/github.com/chrislongros.svg?label=Profile%20views&color=007ec6)
+![Profile Views](https://hits.sh/github.com/chrislongros.svg?label=Profile%20views&color=007ec6&extraCount=3793)
 
 > UNIX enthusiast · Open-source developer · AUR package maintainer · R package author · FreeBSD ports committer
 
